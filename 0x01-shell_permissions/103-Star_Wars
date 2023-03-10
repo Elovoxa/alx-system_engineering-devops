@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt-get install mpv,mpv <the StarWars IV episode>
+telnet towel.blinkenlights.nl

@@ -1,2 +1,2 @@
-sudo apt-get install mpv
-mpv <the StarWars IV episode>
+#!/bin/bash
+sudo apt-get install mpv,mpv <the StarWars IV episode>
